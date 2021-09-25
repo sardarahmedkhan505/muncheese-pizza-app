@@ -45,7 +45,7 @@ export const MainButton = styled.div `
 font-size : 1.4rem;
 padding : 1rem 4rem;
 border :none;
-background : #e31837
+background : #7A0001;
 color : #fff
 transition : 0.2s ease-out;
 & : hover{
